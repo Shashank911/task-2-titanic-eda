@@ -3,7 +3,7 @@
 ##  Objective
 Analyze and understand the Titanic dataset through descriptive statistics and visualizations.
 
-## 🛠 Key Steps
+##  Key Steps
 - Generated summary statistics (mean, median, std, missing values)
 - Plotted histograms and boxplots for key numeric features
 - Created a correlation matrix and pairplot to study feature relationships
